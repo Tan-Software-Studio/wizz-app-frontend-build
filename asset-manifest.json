@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8e8d3e84.css",
-    "main.js": "/static/js/main.bb3da2e8.js",
+    "main.js": "/static/js/main.588f5b63.js",
     "static/js/27.3bb8968a.chunk.js": "/static/js/27.3bb8968a.chunk.js",
     "static/media/smart video NB_1.gif": "/static/media/smart video NB_1.d131969d787c2129fb44.gif",
     "static/media/Power video NB_1.gif": "/static/media/Power video NB_1.19fdc22d1209e05cdc61.gif",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.8e8d3e84.css",
-    "static/js/main.bb3da2e8.js"
+    "static/js/main.588f5b63.js"
   ]
 }

@@ -1,0 +1,1 @@
+(self.webpackChunkwizz=self.webpackChunkwizz||[]).push([[726],{52361:()=>{},94616:()=>{}}]);
